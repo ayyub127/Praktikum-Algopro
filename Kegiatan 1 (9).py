@@ -1,0 +1,5 @@
+latihan = open("L200183127", "w")
+latihan.write("L200183127" + "\n")
+latihan.write("04-08-1999" + "\n")
+latihan.write("Muhammad Ayyub Nasrullah")
+latihan.close()
